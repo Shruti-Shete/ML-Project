@@ -1,0 +1,4 @@
+# ML-Project
+Fall 2022, Speech Emotion Recognition Project
+
+Speech can be considered as a major means by which humans interact with machines. Machines can become more user friendly if they are able to respond according to the user’s current emotional status. However, this being an arduous job we focus on few of the major challenges as follows : To begin with, there are a number of speech features and it’s even harder to find the appropriate speech feature which is powerful enough to distinguish between emotions. Moreover, it's highly subjective how an individual expresses their emotion, it depends on various factors. We in this project focus primarily on monolingual emotion classification. Our sole aim with this project is to predict the emotion captured throughout the speech using Machine Learning techniques.
